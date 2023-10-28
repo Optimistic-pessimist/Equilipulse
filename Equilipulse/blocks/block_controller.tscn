@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://vgvv4sc511sb"]
 
 [node name="BlockController" type="Node"]
+
+[node name="Blocks" type="Node" parent="."]
