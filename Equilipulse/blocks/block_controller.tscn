@@ -1,5 +1,8 @@
-[gd_scene format=3 uid="uid://vgvv4sc511sb"]
+[gd_scene load_steps=2 format=3 uid="uid://vgvv4sc511sb"]
+
+[ext_resource type="Script" path="res://blocks/block_controller.gd" id="1_pla1m"]
 
 [node name="BlockController" type="Node"]
+script = ExtResource("1_pla1m")
 
 [node name="Blocks" type="Node" parent="."]
