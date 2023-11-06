@@ -15,8 +15,8 @@ File ***must*** be in **json** format
 The ```"chart"``` section of the json has to be filled with:
 ```
 [
-    [],         beat 1
-    []          beat 2
+    [{"type": "tap", "lane": 3}],           beat 1
+    []                                      beat 2
 ]
 ```
 
