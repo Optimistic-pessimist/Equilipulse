@@ -1,6 +1,6 @@
 # Chart format
 ## File format
-File ***must*** be in **json** format
+File ***must*** be in **json** format and ```.eql``` extension.
 ## Content
 ```
 {
