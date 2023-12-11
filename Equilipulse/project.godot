@@ -16,13 +16,16 @@ config/icon="res://icon.svg"
 
 [display]
 
+window/size/viewport_width=1204
+window/size/viewport_height=768
 window/size/initial_position_type=0
 window/size/resizable=false
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/csv-data-importer/plugin.cfg")
+enabled=PackedStringArray()
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"

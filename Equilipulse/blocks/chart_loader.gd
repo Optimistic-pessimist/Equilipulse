@@ -14,4 +14,3 @@ func _process(delta):
 func load_chart(filename: String):
 	var chartjsonstring = FileAccess.get_file_as_string(filename)
 	var chartparsed = JSON.parse_string(chartjsonstring)
-	print(chartparsed)

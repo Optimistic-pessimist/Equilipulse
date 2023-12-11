@@ -1,7 +1,7 @@
 {
-    "music": "",
-    "bps": 10, "beats": 1, 
-    "chart": [
-        { "type": "tap", "lane": 3 }
-    ]
+	"music": "",
+	"bps": 10, "beats": 1, 
+	"chart": [
+		{ "type": "tap", "lane": 3 }
+	]
 }

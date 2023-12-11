@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://dtd67v3noc48k"]
-
-[node name="TapBlock" type="StaticBody3D"]
-editor_description = "Block meant to be tapped
-MUST be a child of BlockController node"
