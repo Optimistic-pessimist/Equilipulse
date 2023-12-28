@@ -10,23 +10,10 @@ config_version=5
 
 [application]
 
-config/name="Equilipulse"
+config/name="Equilipulse-level-editor"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
-[display]
-
-window/size/viewport_width=1204
-window/size/viewport_height=768
-window/size/initial_position_type=0
-window/size/resizable=false
-window/vsync/vsync_mode=0
-
-[editor_plugins]
-
-enabled=PackedStringArray()
-
 [rendering]
 
-textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
